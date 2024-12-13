@@ -1,0 +1,8 @@
+export {default as Navbar } from './Navbar'
+export {default as Hero } from './Hero.jsx'
+export {default as Admission} from './Admission.jsx'
+export {default as LiveCourseBenefits} from './LiveCourseBenefits.jsx'
+export {default as Testimonials} from './Testimonials.jsx'
+export {default as Footer} from './Footer.jsx'
+export {default as Gallery} from './Gallery.jsx'
+export {default as TopBar} from './topBar'
