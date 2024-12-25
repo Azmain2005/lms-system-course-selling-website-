@@ -16,7 +16,7 @@ const App = () => {
             <Route path="/login" element={<Login />} />
             <Route path="/about-us" element={<AboutUs />} />
             <Route path="/mycourses" element={<MycCourses />} />
-            <Route path="/offlineForm" element={<OfflineForm />} />
+            <Route path="/offlineform" element={<OfflineForm />} />
             {/* Updated route to accept course ID */}
             <Route path="/course/:id" element={<CourseDetails />} />
          </Routes>
