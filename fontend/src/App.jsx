@@ -1,7 +1,7 @@
 // App.js
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import CourseDetails from './pages/CourseDetails'; // Make sure this matches the correct file name
+import CourseDetails from './pages/courseDetails'; // Make sure this matches the correct file name
 import Login from './pages/Login';
 import AboutUs from './pages/AboutUs';
 import MycCourses from './pages/MycCourses';
